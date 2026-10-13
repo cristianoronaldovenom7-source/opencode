@@ -1,0 +1,14 @@
+{
+  "spi_bus": 0,
+  "spi_cs": 0,
+  "gdo0_gpio": 27,
+  "gdo2_gpio": 17,
+  "gpio_chip": null,
+  "prefer_backend": null,
+  "default_frequency": 433920000,
+  "default_preset": "AM650",
+  "allow_extended_freq": true,
+  "tx_power_dbm": 12,
+  "keeloq_keys": "assets/keeloq_keys.txt",
+  "repeat": 3
+}

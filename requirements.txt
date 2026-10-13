@@ -1,0 +1,9 @@
+# Unleashed-Pi dependencies
+#
+# On Raspberry Pi OS prefer the apt packages (installed by install.sh):
+#   sudo apt install python3-spidev python3-lgpio python3-rpi-lgpio
+#
+# Everything else is pure standard-library Python. On a development PC no
+# extra packages are needed at all (demo/mock mode); for running the test
+# suite install pytest:
+#   pip install pytest
